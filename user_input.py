@@ -1,5 +1,3 @@
-# user_input.py
-
 # Ask for user's name
 name = input("What is your name? ")
 
